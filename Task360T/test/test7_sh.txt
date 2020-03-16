@@ -1,0 +1,4 @@
+#!/bin/sh
+
+nohup java -jar ./Task360T-1.0-jar-with-dependencies.jar  "test7/initiator" 1 > test7initiator.out &
+java -jar ./Task360T-1.0-jar-with-dependencies.jar  "test7/receiver" 2 > test7receiver.out 

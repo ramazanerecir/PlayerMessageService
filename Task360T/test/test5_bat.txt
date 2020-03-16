@@ -1,0 +1,1 @@
+java -jar ./Task360T-1.0-jar-with-dependencies.jar "test5" 0
